@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/icons/why_chose_us_1.svg",
+    "title": "Rapid 24/7 Response",
+    "desc": "Call us anytime—day or night—for fast, reliable heating and cooling service when you need it most."
+  },
+  {
+    "img": "/assets/img/icons/why_chose_us_2.svg",
+    "title": "Certified Local Experts",
+    "desc": "Our experienced, fully licensed technicians deliver quality workmanship and honest advice every visit."
+  },
+  {
+    "img": "/assets/img/icons/why_chose_us_3.svg",
+    "title": "Upfront & Fair Pricing",
+    "desc": "No hidden fees—just transparent, competitive rates and free quotes for every job."
+  },
+  {
+    "img": "/assets/img/icons/why_chose_us_4.svg",
+    "title": "Customer Satisfaction Guaranteed",
+    "desc": "We’re committed to your comfort and peace of mind—call now and experience our 5-star service."
+  }
+]

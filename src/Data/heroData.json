@@ -1,0 +1,26 @@
+[
+  {
+    "bgImg": "/assets/img/hero_bg_1.jpg",
+    "subTitle": "Installation, Maintenance, Repairing & Cleaning  Services",
+    "title": "Service First - Best Heating & Cooling Experts in Melbourne",
+    "desc": "Experience top-notch heating and cooling solutions tailored for Melbourne homes and businesses. Trust our experts for reliable installation, maintenance, and repairs.",
+    "img": "/assets/img/hero_img_1.png",
+    "link": "/about"
+  },
+  {
+    "bgImg": "/assets/img/hero_bg_2.jpg",
+    "subTitle": "Repairing Services",
+    "title": "The Satisfaction Guaranteed Heating & Cooling Experts",
+    "desc": "Our team guarantees satisfaction with every heating and cooling repair. Fast, professional, and affordable service for all your climate control needs.",
+    "img": "/assets/img/hero_img_2.png",
+    "link": "/about"
+  },
+  {
+    "bgImg": "/assets/img/hero_bg_3.jpg",
+    "subTitle": "Repairing Services",
+    "title": "We install, service and repair air conditioning in homes and businesses in Melbourne",
+    "desc": "From installation to maintenance and repairs, we provide comprehensive air conditioning services for both residential and commercial properties in Melbourne.",
+    "img": "/assets/img/hero_img_3.png",
+    "link": "/about"
+  }
+]

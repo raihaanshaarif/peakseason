@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/img/avatar_2.png",
+    "desc": "Absolutely fantastic service! The team was prompt, professional, and fixed our heating system in no time. Highly recommend for anyone needing reliable climate solutions in Melbourne.",
+    "title": "Emily Carter",
+    "subTitle": "Homeowner"
+  },
+  {
+    "img": "/assets/img/avatar_2.png",
+    "desc": "From start to finish, the installation of our new split system was seamless. The technicians explained everything clearly and left our home spotless. Great experience!",
+    "title": "James Nguyen",
+    "subTitle": "Business Owner"
+  },
+  {
+    "img": "/assets/img/avatar_3.png",
+    "desc": "We’ve used their maintenance services for years. Always friendly, on time, and our air conditioning has never worked better. Wouldn’t trust anyone else!",
+    "title": "Priya Patel",
+    "subTitle": "Property Manager"
+  }
+]

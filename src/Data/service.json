@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "title": "Air Conditioning",
+    "desc": "Installation, maintenance, and repair of all types of air conditioning systems.",
+    "img": "/assets/img/icons/service_icon_1.svg",
+    "link": "/service/air-conditioning"
+  },
+  {
+    "id": "02",
+    "title": "Split System",
+    "desc": "Expert services for split system air conditioners, including installation and repairs.",
+    "img": "/assets/img/icons/service_icon_2.svg",
+    "link": "/service/split-system"
+  },
+  {
+    "id": "03",
+    "title": "Hydronic Heating",
+    "desc": "Hydronic heating solutions for efficient and comfortable indoor heating.",
+    "img": "/assets/img/icons/service_icon_3.svg",
+    "link": "/service/hydronic-heating"
+  },
+  {
+    "id": "04",
+    "title": "Ducted Air Conditioning",
+    "desc": "Comprehensive ducted air conditioning services for homes and businesses.",
+    "img": "/assets/img/icons/service_icon_4.svg",
+    "link": "/service/ducted-air-conditioning"
+  },
+  {
+    "id": "05",
+    "title": "Evaporative Coolers",
+    "desc": "Installation and maintenance of evaporative cooling systems.",
+    "img": "/assets/img/icons/service_icon_5.svg",
+    "link": "/service/evaporative-coolers"
+  },
+  {
+    "id": "06",
+    "title": "Space Heater",
+    "desc": "Service and repair for all types of space heaters.",
+    "img": "/assets/img/icons/service_icon_6.svg",
+    "link": "/service/wall-furnace-space-heater"
+  }
+]
