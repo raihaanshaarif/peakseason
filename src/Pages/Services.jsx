@@ -8,41 +8,45 @@ const Services = () => {
     <div className="service-area">
       <Helmet>
         <title>
-          Our Services | Service First - Heating & Cooling Solutions Melbourne
+          Our Services | Peak Season Heating and Cooling - HVAC Solutions
+          Melbourne
         </title>
         <meta
           name="description"
-          content="Explore our full range of heating and cooling services in Melbourne. Installation, repair, maintenance, and more for homes and businesses."
+          content="Explore our full range of heating and cooling services in Melbourne. Professional HVAC installation, repair, maintenance for air conditioning, split systems, hydronic heating, and more."
         />
         <meta
           name="keywords"
-          content="Services, Heating, Cooling, Installation, Repair, Maintenance, Melbourne"
+          content="HVAC services Melbourne, heating installation, cooling repair, air conditioning service, split system maintenance, hydronic heating, evaporative coolers"
         />
         <meta
           property="og:title"
-          content="Our Services | Service First - Heating & Cooling Solutions Melbourne"
+          content="Our Services | Peak Season Heating and Cooling - HVAC Solutions Melbourne"
         />
         <meta
           property="og:description"
-          content="Explore our full range of heating and cooling services in Melbourne. Installation, repair, maintenance, and more for homes and businesses."
+          content="Explore our full range of heating and cooling services in Melbourne. Professional HVAC installation, repair, maintenance for homes and businesses."
         />
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://www.servicefirst.com.au/service"
+          content="https://www.peakseasonheatingcooling.com.au/service"
         />
         <meta property="og:image" content="/assets/img/hero_img_1.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Our Services | Service First - Heating & Cooling Solutions Melbourne"
+          content="Our Services | Peak Season Heating and Cooling - HVAC Solutions Melbourne"
         />
         <meta
           name="twitter:description"
-          content="Explore our full range of heating and cooling services in Melbourne. Installation, repair, maintenance, and more for homes and businesses."
+          content="Explore our full range of heating and cooling services in Melbourne. Professional HVAC installation, repair, maintenance for homes and businesses."
         />
         <meta name="twitter:image" content="/assets/img/hero_img_1.png" />
-        <link rel="canonical" href="https://www.servicefirst.com.au/service" />
+        <link
+          rel="canonical"
+          href="https://www.peakseasonheatingcooling.com.au/service"
+        />
         <meta name="robots" content="index, follow" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

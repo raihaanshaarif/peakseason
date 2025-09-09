@@ -20,7 +20,7 @@ const Form2 = () => {
 
     // Send email via sendmail.php
     try {
-      const response = await fetch("https://servicemyhome.net/sendmail.php", {
+      const response = await fetch("https://peakseason.com.au/sendmail.php", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),

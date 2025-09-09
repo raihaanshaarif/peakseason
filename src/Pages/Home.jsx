@@ -15,38 +15,44 @@ const Home = () => {
     <div className="home-area">
       <Helmet>
         <title>
-          Service First | Best Heating & Cooling Service in Melbourne
+          Peak Season Heating and Cooling | Expert HVAC Services in Melbourne
         </title>
         <meta
           name="description"
-          content="Expert heating and cooling installation, maintenance, and repair in Melbourne. Reliable, energy-efficient solutions for homes and businesses. 24/7 support."
+          content="Peak Season Heating and Cooling provides professional heating and cooling system repair, installation, and maintenance services in Melbourne. Expert HVAC technicians for air conditioning, split systems, hydronic heating, and more."
         />
         <meta
           name="keywords"
-          content="Heating, Cooling, Air Conditioning, Melbourne, Installation, Repair, Maintenance, Energy Efficient"
+          content="heating and cooling Melbourne, HVAC repair Melbourne, air conditioning service, split system installation, hydronic heating, ducted air conditioning, evaporative coolers, space heater repair"
         />
         <meta
           property="og:title"
-          content="Service First | Best Heating & Cooling Service in Melbourne"
+          content="Peak Season Heating and Cooling | Expert HVAC Services in Melbourne"
         />
         <meta
           property="og:description"
-          content="Expert heating and cooling installation, maintenance, and repair in Melbourne. Reliable, energy-efficient solutions for homes and businesses."
+          content="Professional heating and cooling system repair, installation, and maintenance services in Melbourne. Expert HVAC technicians for all your comfort needs."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.servicefirst.com.au/" />
+        <meta
+          property="og:url"
+          content="https://www.peakseasonheatingcooling.com.au/"
+        />
         <meta property="og:image" content="/assets/img/hero_img_1.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Service First | Best Heating & Cooling Service in Melbourne"
+          content="Peak Season Heating and Cooling | Expert HVAC Services in Melbourne"
         />
         <meta
           name="twitter:description"
-          content="Expert heating and cooling installation, maintenance, and repair in Melbourne. Reliable, energy-efficient solutions for homes and businesses."
+          content="Professional heating and cooling system repair, installation, and maintenance services in Melbourne. Expert HVAC technicians for all your comfort needs."
         />
         <meta name="twitter:image" content="/assets/img/hero_img_1.png" />
-        <link rel="canonical" href="https://www.servicefirst.com.au/" />
+        <link
+          rel="canonical"
+          href="https://www.peakseasonheatingcooling.com.au/"
+        />
         <meta name="robots" content="index, follow" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -55,17 +61,17 @@ const Home = () => {
           {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Service First",
+            "name": "Peak Season Heating and Cooling",
             "image": "/assets/img/hero_img_1.png",
             "@id": "",
-            "url": "https://www.servicefirst.com.au/",
+            "url": "https://www.peakseasonheatingcooling.com.au/",
             "telephone": "0405 133 761",
             "address": {
               "@type": "PostalAddress",
-              "streetAddress": "12 The Fairway Hampton Park VIC 3976",
+              "streetAddress": "Melbourne",
               "addressLocality": "Melbourne",
               "addressRegion": "VIC",
-              "postalCode": "3976",
+              "postalCode": "",
               "addressCountry": "AU"
             },
             "geo": {

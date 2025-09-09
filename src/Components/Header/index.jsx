@@ -41,8 +41,8 @@ export default function Header({ variant }) {
               <div className="cs_top_header_left">
                 <ul className="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
                   <li>
-                    Welcome to Service First - Best Heating and Cooling Service
-                    in Melbourne
+                    Welcome to Peak Season Heating and Cooling - Expert HVAC
+                    Services in Melbourne
                   </li>
                 </ul>
               </div>
@@ -117,7 +117,10 @@ export default function Header({ variant }) {
             <div className="cs_main_header_in">
               <div className="cs_main_header_left">
                 <Link className="cs_site_branding" to="/">
-                  <img src="/assets/img/logo-17.png" alt="Logo" />
+                  <img
+                    src="/assets/img/logo-17.png"
+                    alt="Peak Season Heating and Cooling"
+                  />
                 </Link>
               </div>
 

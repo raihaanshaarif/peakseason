@@ -2,19 +2,19 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   const Services = [
-    "Air Conditioning systems",
-    "Ducted Gas Heating",
+    "Air Conditioning Systems",
+    "Split System Installation & Repair",
+    "Hydronic Heating",
+    "Ducted Air Conditioning",
     "Evaporative Coolers",
-    "Wall Furnace / Space Heater",
-    "Cleaning",
-    "Repairs",
+    "Space Heater Repair",
   ];
 
   const WorkingHours = [
-    { day: "Thu - Fri", time: "9:00 AM - 9:00 PM" },
-    { day: "Mon - Wed", time: "8:00 AM - 9:00 PM" },
-    { day: "Saturday", time: "8:00 AM - 9:00 PM" },
-    { day: "Sunday", time: "Close" },
+    { day: "Monday - Friday", time: "7:00 AM - 6:00 PM" },
+    { day: "Saturday", time: "8:00 AM - 4:00 PM" },
+    { day: "Sunday", time: "Emergency Only" },
+    { day: "Public Holidays", time: "Emergency Only" },
   ];
 
   const QuickLinks = [
@@ -93,7 +93,7 @@ const Footer = () => {
               data-wow-delay="0.25s"
             >
               <Link to="/">
-                <img src="/assets/img/logo-17.png" alt="Logo" />
+                <img src="/assets/img/logo-172.svg" alt="Logo" />
               </Link>
             </div>
             <div className="cs_footer_contact_card">
@@ -204,10 +204,10 @@ const Footer = () => {
                       Email:
                     </span>
                     <a
-                      href="mailto:info@servicefirst.com.au"
+                      href="mailto:info@peakseasonheatingcooling.com.au"
                       className="cs_white_color cs_fs_16"
                     >
-                      info@servicefirst.com.au
+                      info@peakseasonheatingcooling.com.au
                     </a>
                   </li>
                   <li>
@@ -263,7 +263,8 @@ const Footer = () => {
           <div className="cs_footer_bottom_in">
             <div className="cs_footer_copyright">
               Copyright@ {new Date().getFullYear()}{" "}
-              <Link to="/">Service First</Link>. All Rights Reserved.
+              <Link to="/">Peak Season Heating and Cooling</Link>. All Rights
+              Reserved.
             </div>
             <ul className="cs_footer_menu cs_mp_0">
               <li>

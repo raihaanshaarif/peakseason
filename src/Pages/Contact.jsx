@@ -8,41 +8,45 @@ const Contact = () => {
     <div className="contact-page">
       <Helmet>
         <title>
-          Contact Us | Service First - Book Your Heating & Cooling Appointment
+          Contact Us | Peak Season Heating and Cooling - Book Your HVAC
+          Appointment
         </title>
         <meta
           name="description"
-          content="Contact Service First for expert heating and cooling services in Melbourne. Book an appointment, get a quote, or ask a question today!"
+          content="Contact Peak Season Heating and Cooling for expert HVAC services in Melbourne. Book an appointment, get a quote for heating and cooling installation, repair, or maintenance."
         />
         <meta
           name="keywords"
-          content="Contact, Heating, Cooling, Melbourne, Appointment, Quote, Service"
+          content="Contact Peak Season, HVAC Melbourne, heating cooling appointment, air conditioning quote, split system service, emergency repair"
         />
         <meta
           property="og:title"
-          content="Contact Us | Service First - Book Your Heating & Cooling Appointment"
+          content="Contact Us | Peak Season Heating and Cooling - Book Your HVAC Appointment"
         />
         <meta
           property="og:description"
-          content="Contact Service First for expert heating and cooling services in Melbourne. Book an appointment, get a quote, or ask a question today!"
+          content="Contact Peak Season Heating and Cooling for expert HVAC services in Melbourne. Book an appointment, get a quote for heating and cooling installation, repair, or maintenance."
         />
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          content="https://www.servicefirst.com.au/contact"
+          content="https://www.peakseasonheatingcooling.com.au/contact"
         />
         <meta property="og:image" content="/assets/img/hero_img_1.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Contact Us | Service First - Book Your Heating & Cooling Appointment"
+          content="Contact Us | Peak Season Heating and Cooling - Book Your HVAC Appointment"
         />
         <meta
           name="twitter:description"
-          content="Contact Service First for expert heating and cooling services in Melbourne. Book an appointment, get a quote, or ask a question today!"
+          content="Contact Peak Season Heating and Cooling for expert HVAC services in Melbourne. Book an appointment, get a quote for heating and cooling installation, repair, or maintenance."
         />
         <meta name="twitter:image" content="/assets/img/hero_img_1.png" />
-        <link rel="canonical" href="https://www.servicefirst.com.au/contact" />
+        <link
+          rel="canonical"
+          href="https://www.peakseasonheatingcooling.com.au/contact"
+        />
         <meta name="robots" content="index, follow" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
